@@ -5,6 +5,7 @@ Deliverable 1: Filter UFO sightings on multiple criteria
 
 ## Resources
 -Data Source: Data.js
+
 -Software: Visual Studio Code, Javascript, HTML, CSS
 
 ## Analysis and Results of Data
